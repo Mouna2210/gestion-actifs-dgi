@@ -2,7 +2,6 @@ package com.dgi.gestionactifs.service.dto;
 
 import com.dgi.gestionactifs.domain.enumeration.StatutMaintenance;
 import com.dgi.gestionactifs.domain.enumeration.TypeMaintenance;
-import jakarta.persistence.Lob;
 import jakarta.validation.constraints.*;
 import java.io.Serializable;
 import java.time.LocalDate;
@@ -24,7 +23,6 @@ public class MaintenanceDTO implements Serializable {
     @NotNull
     private StatutMaintenance statut;
 
-    @Lob
     private String compteRendu;
 
     private LocalDate dateCloture;

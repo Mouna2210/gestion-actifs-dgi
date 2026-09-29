@@ -42,7 +42,6 @@ public class Maintenance implements Serializable {
     @Column(name = "statut", nullable = false)
     private StatutMaintenance statut;
 
-    @Lob
     @Column(name = "compte_rendu")
     private String compteRendu;
 
