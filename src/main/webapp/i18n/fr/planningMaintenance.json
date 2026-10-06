@@ -4,15 +4,15 @@
       "home": {
         "title": "PlanningMaintenances",
         "refreshListLabel": "Actualiser la liste",
-        "createLabel": "Créer un nouveau Planning de maintenance",
-        "createOrEditLabel": "Créer ou éditer un Planning de maintenance",
-        "notFound": "Aucun Planning de maintenance trouvé"
+        "createLabel": "Créer un nouveau planning de maintenance",
+        "createOrEditLabel": "Créer ou éditer un planning de maintenance",
+        "notFound": "Aucun planning de maintenance trouvé"
       },
-      "created": "Un nouveau Planning de maintenance a été créé avec l'identifiant {{ param }}",
-      "updated": "Le Planning de maintenance avec l'identifiant {{ param }} a été mis à jour",
-      "deleted": "Le Planning de maintenance avec l'identifiant {{ param }} a été supprimé",
+      "created": "Un nouveau planning de maintenance a été créé avec l'identifiant {{ param }}",
+      "updated": "Le planning de maintenance avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le planning de maintenance avec l'identifiant {{ param }} a été supprimé",
       "delete": {
-        "question": "Êtes-vous certain de vouloir supprimer le Planning de maintenance {{ id }} ?"
+        "question": "Êtes-vous certain de vouloir supprimer le planning de maintenance {{ id }} ?"
       },
       "detail": {
         "title": "Planning Maintenance"
