@@ -4,15 +4,15 @@
       "home": {
         "title": "AffectationActifs",
         "refreshListLabel": "Actualiser la liste",
-        "createLabel": "Créer un nouveau Affectation Actif",
-        "createOrEditLabel": "Créer ou éditer un Affectation Actif",
-        "notFound": "Aucun Affectation Actif trouvé"
+        "createLabel": "Créer une nouvelle affectation d'actif",
+        "createOrEditLabel": "Créer ou éditer une affectation d'actif",
+        "notFound": "Aucune affectation d'actif trouvée"
       },
-      "created": "Un nouveau Affectation Actif a été créé avec l'identifiant {{ param }}",
-      "updated": "Le Affectation Actif avec l'identifiant {{ param }} a été mis à jour",
-      "deleted": "Le Affectation Actif avec l'identifiant {{ param }} a été supprimé",
+      "created": "Une nouvelle affectation d'actif a été créée avec l'identifiant {{ param }}",
+      "updated": "L'affectation d'actif avec l'identifiant {{ param }} a été mise à jour",
+      "deleted": "L'affectation d'actif avec l'identifiant {{ param }} a été supprimée",
       "delete": {
-        "question": "Êtes-vous certain de vouloir supprimer le Affectation Actif {{ id }} ?"
+        "question": "Êtes-vous certain de vouloir supprimer l'affectation d'actif {{ id }} ?"
       },
       "detail": {
         "title": "Affectation Actif"

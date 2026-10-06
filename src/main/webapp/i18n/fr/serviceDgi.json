@@ -4,18 +4,18 @@
       "home": {
         "title": "ServiceDgis",
         "refreshListLabel": "Actualiser la liste",
-        "createLabel": "Créer un nouveau Service Dgi",
-        "createOrEditLabel": "Créer ou éditer un Service Dgi",
-        "notFound": "Aucun Service Dgi trouvé"
+        "createLabel": "Créer un nouveau service DGI",
+        "createOrEditLabel": "Créer ou éditer un service DGI",
+        "notFound": "Aucun service DGI trouvé"
       },
-      "created": "Un nouveau Service Dgi a été créé avec l'identifiant {{ param }}",
-      "updated": "Le Service Dgi avec l'identifiant {{ param }} a été mis à jour",
-      "deleted": "Le Service Dgi avec l'identifiant {{ param }} a été supprimé",
+      "created": "Un nouveau service DGI a été créé avec l'identifiant {{ param }}",
+      "updated": "Le service DGI avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le service DGI avec l'identifiant {{ param }} a été supprimé",
       "delete": {
-        "question": "Êtes-vous certain de vouloir supprimer le Service Dgi {{ id }} ?"
+        "question": "Êtes-vous certain de vouloir supprimer le service DGI {{ id }} ?"
       },
       "detail": {
-        "title": "Service Dgi"
+        "title": "Service DGI"
       },
       "id": "ID",
       "nomService": "Nom Service",

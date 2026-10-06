@@ -4,15 +4,15 @@
       "home": {
         "title": "Pannes",
         "refreshListLabel": "Actualiser la liste",
-        "createLabel": "Créer un nouveau Panne",
-        "createOrEditLabel": "Créer ou éditer un Panne",
-        "notFound": "Aucun Panne trouvé"
+        "createLabel": "Créer une nouvelle panne",
+        "createOrEditLabel": "Créer ou éditer une panne",
+        "notFound": "Aucune panne trouvée"
       },
-      "created": "Un nouveau Panne a été créé avec l'identifiant {{ param }}",
-      "updated": "Le Panne avec l'identifiant {{ param }} a été mis à jour",
-      "deleted": "Le Panne avec l'identifiant {{ param }} a été supprimé",
+      "created": "Une nouvelle panne a été créée avec l'identifiant {{ param }}",
+      "updated": "La panne avec l'identifiant {{ param }} a été mise à jour",
+      "deleted": "La panne avec l'identifiant {{ param }} a été supprimée",
       "delete": {
-        "question": "Êtes-vous certain de vouloir supprimer le Panne {{ id }} ?"
+        "question": "Êtes-vous certain de vouloir supprimer la panne {{ id }} ?"
       },
       "detail": {
         "title": "Panne"

@@ -4,15 +4,15 @@
       "home": {
         "title": "EquipementRecensements",
         "refreshListLabel": "Actualiser la liste",
-        "createLabel": "Créer un nouveau Equipement Recensement",
+        "createLabel": "Créer un nouvel équipement recensement",
         "createOrEditLabel": "Créer ou éditer un Equipement Recensement",
         "notFound": "Aucun Equipement Recensement trouvé"
       },
-      "created": "Un nouveau Equipement Recensement a été créé avec l'identifiant {{ param }}",
+      "created": "Un nouvel équipement recensement a été créé avec l'identifiant {{ param }}",
       "updated": "Le Equipement Recensement avec l'identifiant {{ param }} a été mis à jour",
       "deleted": "Le Equipement Recensement avec l'identifiant {{ param }} a été supprimé",
       "delete": {
-        "question": "Êtes-vous certain de vouloir supprimer le Equipement Recensement {{ id }} ?"
+        "question": "Êtes-vous certain de vouloir supprimer l'équipement Recensement {{ id }} ?"
       },
       "detail": {
         "title": "Equipement Recensement"

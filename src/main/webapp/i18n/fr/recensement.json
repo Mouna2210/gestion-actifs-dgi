@@ -4,15 +4,15 @@
       "home": {
         "title": "Recensements",
         "refreshListLabel": "Actualiser la liste",
-        "createLabel": "Créer un nouveau Recensement",
-        "createOrEditLabel": "Créer ou éditer un Recensement",
-        "notFound": "Aucun Recensement trouvé"
+        "createLabel": "Créer un nouveau recensement",
+        "createOrEditLabel": "Créer ou éditer un recensement",
+        "notFound": "Aucun recensement trouvé"
       },
-      "created": "Un nouveau Recensement a été créé avec l'identifiant {{ param }}",
-      "updated": "Le Recensement avec l'identifiant {{ param }} a été mis à jour",
-      "deleted": "Le Recensement avec l'identifiant {{ param }} a été supprimé",
+      "created": "Un nouveau recensement a été créé avec l'identifiant {{ param }}",
+      "updated": "Le recensement avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le recensement avec l'identifiant {{ param }} a été supprimé",
       "delete": {
-        "question": "Êtes-vous certain de vouloir supprimer le Recensement {{ id }} ?"
+        "question": "Êtes-vous certain de vouloir supprimer le recensement {{ id }} ?"
       },
       "detail": {
         "title": "Recensement"

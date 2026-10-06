@@ -4,18 +4,18 @@
       "home": {
         "title": "Actifs",
         "refreshListLabel": "Actualiser la liste",
-        "createLabel": "Créer un nouveau Actif",
-        "createOrEditLabel": "Créer ou éditer un Actif",
-        "notFound": "Aucun Actif trouvé"
+        "createLabel": "Créer un nouvel actif",
+        "createOrEditLabel": "Créer ou éditer un actif",
+        "notFound": "Aucun actif trouvé"
       },
-      "created": "Un nouveau Actif a été créé avec l'identifiant {{ param }}",
-      "updated": "Le Actif avec l'identifiant {{ param }} a été mis à jour",
-      "deleted": "Le Actif avec l'identifiant {{ param }} a été supprimé",
+      "created": "Un nouvel actif a été créé avec l'identifiant {{ param }}",
+      "updated": "Le actif avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le actif avec l'identifiant {{ param }} a été supprimé",
       "delete": {
-        "question": "Êtes-vous certain de vouloir supprimer le Actif {{ id }} ?"
+        "question": "Êtes-vous certain de vouloir supprimer le actif {{ id }} ?"
       },
       "detail": {
-        "title": "Actif"
+        "title": "Actifs"
       },
       "id": "ID",
       "codeInventaire": "Code Inventaire",

@@ -4,15 +4,15 @@
       "home": {
         "title": "Bordereaus",
         "refreshListLabel": "Actualiser la liste",
-        "createLabel": "Créer un nouveau Bordereau",
-        "createOrEditLabel": "Créer ou éditer un Bordereau",
+        "createLabel": "Créer un nouveau bordereau",
+        "createOrEditLabel": "Créer ou éditer un bordereau",
         "notFound": "Aucun Bordereau trouvé"
       },
-      "created": "Un nouveau Bordereau a été créé avec l'identifiant {{ param }}",
-      "updated": "Le Bordereau avec l'identifiant {{ param }} a été mis à jour",
-      "deleted": "Le Bordereau avec l'identifiant {{ param }} a été supprimé",
+      "created": "Un nouveau bordereau a été créé avec l'identifiant {{ param }}",
+      "updated": "Le bordereau avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le bordereau avec l'identifiant {{ param }} a été supprimé",
       "delete": {
-        "question": "Êtes-vous certain de vouloir supprimer le Bordereau {{ id }} ?"
+        "question": "Êtes-vous certain de vouloir supprimer le bordereau {{ id }} ?"
       },
       "detail": {
         "title": "Bordereau"

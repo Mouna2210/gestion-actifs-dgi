@@ -4,15 +4,15 @@
       "home": {
         "title": "Transferts",
         "refreshListLabel": "Actualiser la liste",
-        "createLabel": "Créer un nouveau Transfert",
-        "createOrEditLabel": "Créer ou éditer un Transfert",
-        "notFound": "Aucun Transfert trouvé"
+        "createLabel": "Créer un nouveau transfert",
+        "createOrEditLabel": "Créer ou éditer un transfert",
+        "notFound": "Aucun transfert trouvé"
       },
-      "created": "Un nouveau Transfert a été créé avec l'identifiant {{ param }}",
-      "updated": "Le Transfert avec l'identifiant {{ param }} a été mis à jour",
-      "deleted": "Le Transfert avec l'identifiant {{ param }} a été supprimé",
+      "created": "Un nouveau transfert a été créé avec l'identifiant {{ param }}",
+      "updated": "Le transfert avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le transfert avec l'identifiant {{ param }} a été supprimé",
       "delete": {
-        "question": "Êtes-vous certain de vouloir supprimer le Transfert {{ id }} ?"
+        "question": "Êtes-vous certain de vouloir supprimer le transfert {{ id }} ?"
       },
       "detail": {
         "title": "Transfert"

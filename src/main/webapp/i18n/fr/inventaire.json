@@ -4,15 +4,15 @@
       "home": {
         "title": "Inventaires",
         "refreshListLabel": "Actualiser la liste",
-        "createLabel": "Créer un nouveau Inventaire",
-        "createOrEditLabel": "Créer ou éditer un Inventaire",
+        "createLabel": "Créer un nouvel inventaire",
+        "createOrEditLabel": "Créer ou éditer un nouvel inventaire",
         "notFound": "Aucun Inventaire trouvé"
       },
-      "created": "Un nouveau Inventaire a été créé avec l'identifiant {{ param }}",
-      "updated": "Le Inventaire avec l'identifiant {{ param }} a été mis à jour",
-      "deleted": "Le Inventaire avec l'identifiant {{ param }} a été supprimé",
+      "created": "Un nouvel inventaire a été créé avec l'identifiant {{ param }}",
+      "updated": "L'inventaire avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "L'inventaire avec l'identifiant {{ param }} a été supprimé",
       "delete": {
-        "question": "Êtes-vous certain de vouloir supprimer le Inventaire {{ id }} ?"
+        "question": "Êtes-vous certain de vouloir supprimer l'inventaire {{ id }} ?"
       },
       "detail": {
         "title": "Inventaire"

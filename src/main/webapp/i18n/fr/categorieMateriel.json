@@ -4,15 +4,15 @@
       "home": {
         "title": "CategorieMateriels",
         "refreshListLabel": "Actualiser la liste",
-        "createLabel": "Créer un nouveau Categorie Materiel",
-        "createOrEditLabel": "Créer ou éditer un Categorie Materiel",
-        "notFound": "Aucun Categorie Materiel trouvé"
+        "createLabel": "Créer une nouvelle Categorie de materiel",
+        "createOrEditLabel": "Créer ou éditer une Categorie de materiel",
+        "notFound": "Aucune Categorie de materiel trouvée"
       },
-      "created": "Un nouveau Categorie Materiel a été créé avec l'identifiant {{ param }}",
-      "updated": "Le Categorie Materiel avec l'identifiant {{ param }} a été mis à jour",
-      "deleted": "Le Categorie Materiel avec l'identifiant {{ param }} a été supprimé",
+      "created": "Une nouvelle Categorie de materiel a été créée avec l'identifiant {{ param }}",
+      "updated": "La Categorie de materiel avec l'identifiant {{ param }} a été mise à jour",
+      "deleted": "La Categorie de materiel avec l'identifiant {{ param }} a été supprimée",
       "delete": {
-        "question": "Êtes-vous certain de vouloir supprimer le Categorie Materiel {{ id }} ?"
+        "question": "Êtes-vous certain de vouloir supprimer la Categorie Materiel {{ id }} ?"
       },
       "detail": {
         "title": "Categorie Materiel"

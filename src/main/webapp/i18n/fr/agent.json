@@ -4,13 +4,13 @@
       "home": {
         "title": "Agents",
         "refreshListLabel": "Actualiser la liste",
-        "createLabel": "Créer un nouveau Agent",
-        "createOrEditLabel": "Créer ou éditer un Agent",
-        "notFound": "Aucun Agent trouvé"
+        "createLabel": "Créer un nouvel agent",
+        "createOrEditLabel": "Créer ou éditer un agent",
+        "notFound": "Aucun agent trouvé"
       },
-      "created": "Un nouveau Agent a été créé avec l'identifiant {{ param }}",
-      "updated": "Le Agent avec l'identifiant {{ param }} a été mis à jour",
-      "deleted": "Le Agent avec l'identifiant {{ param }} a été supprimé",
+      "created": "Un nouveau agent a été créé avec l'identifiant {{ param }}",
+      "updated": "Le agent avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le agent avec l'identifiant {{ param }} a été supprimé",
       "delete": {
         "question": "Êtes-vous certain de vouloir supprimer le Agent {{ id }} ?"
       },

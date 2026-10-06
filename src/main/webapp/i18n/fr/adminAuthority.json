@@ -4,15 +4,15 @@
       "home": {
         "title": "Authorities",
         "refreshListLabel": "Actualiser la liste",
-        "createLabel": "Créer un nouveau Authority",
-        "createOrEditLabel": "Créer ou éditer un Authority",
-        "notFound": "Aucun Authority trouvé"
+        "createLabel": "Créer un nouvel authority",
+        "createOrEditLabel": "Créer ou éditer un authority",
+        "notFound": "Aucun authority trouvé"
       },
-      "created": "Un nouveau Authority a été créé avec l'identifiant {{ param }}",
-      "updated": "Le Authority avec l'identifiant {{ param }} a été mis à jour",
-      "deleted": "Le Authority avec l'identifiant {{ param }} a été supprimé",
+      "created": "Un nouveau authority a été créé avec l'identifiant {{ param }}",
+      "updated": "Le authority avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le authority avec l'identifiant {{ param }} a été supprimé",
       "delete": {
-        "question": "Êtes-vous certain de vouloir supprimer le Authority {{ id }} ?"
+        "question": "Êtes-vous certain de vouloir supprimer le authority {{ id }} ?"
       },
       "detail": {
         "title": "Authority"

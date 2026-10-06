@@ -4,18 +4,18 @@
       "home": {
         "title": "TransfertActifs",
         "refreshListLabel": "Actualiser la liste",
-        "createLabel": "Créer un nouveau Transfert Actif",
-        "createOrEditLabel": "Créer ou éditer un Transfert Actif",
-        "notFound": "Aucun Transfert Actif trouvé"
+        "createLabel": "Créer un nouveau transfert d'actif",
+        "createOrEditLabel": "Créer ou éditer un transfert d'actif",
+        "notFound": "Aucun transfert d'actif trouvé"
       },
-      "created": "Un nouveau Transfert Actif a été créé avec l'identifiant {{ param }}",
-      "updated": "Le Transfert Actif avec l'identifiant {{ param }} a été mis à jour",
-      "deleted": "Le Transfert Actif avec l'identifiant {{ param }} a été supprimé",
+      "created": "Un nouveau transfert d'actif a été créé avec l'identifiant {{ param }}",
+      "updated": "Le transfert d'actif avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le transfert d'actif avec l'identifiant {{ param }} a été supprimé",
       "delete": {
-        "question": "Êtes-vous certain de vouloir supprimer le Transfert Actif {{ id }} ?"
+        "question": "Êtes-vous certain de vouloir supprimer le transfert d'actif {{ id }} ?"
       },
       "detail": {
-        "title": "Transfert Actif"
+        "title": "Transfert d'actif"
       },
       "id": "ID",
       "observation": "Observation",

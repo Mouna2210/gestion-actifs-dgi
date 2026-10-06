@@ -4,15 +4,15 @@
       "home": {
         "title": "Interventions",
         "refreshListLabel": "Actualiser la liste",
-        "createLabel": "Créer un nouveau Intervention",
-        "createOrEditLabel": "Créer ou éditer un Intervention",
-        "notFound": "Aucun Intervention trouvé"
+        "createLabel": "Créer une nouvelle intervention",
+        "createOrEditLabel": "Créer ou éditer une intervention",
+        "notFound": "Aucune intervention trouvée"
       },
-      "created": "Un nouveau Intervention a été créé avec l'identifiant {{ param }}",
-      "updated": "Le Intervention avec l'identifiant {{ param }} a été mis à jour",
-      "deleted": "Le Intervention avec l'identifiant {{ param }} a été supprimé",
+      "created": "Une nouvelle intervention a été créée avec l'identifiant {{ param }}",
+      "updated": "L'intervention avec l'identifiant {{ param }} a été mise à jour",
+      "deleted": "L'intervention avec l'identifiant {{ param }} a été supprimée",
       "delete": {
-        "question": "Êtes-vous certain de vouloir supprimer le Intervention {{ id }} ?"
+        "question": "Êtes-vous certain de vouloir supprimer l'intervention {{ id }} ?"
       },
       "detail": {
         "title": "Intervention"

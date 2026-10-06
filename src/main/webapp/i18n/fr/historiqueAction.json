@@ -4,13 +4,13 @@
       "home": {
         "title": "HistoriqueActions",
         "refreshListLabel": "Actualiser la liste",
-        "createLabel": "Créer un nouveau Historique Action",
-        "createOrEditLabel": "Créer ou éditer un Historique Action",
-        "notFound": "Aucun Historique Action trouvé"
+        "createLabel": "Créer une nouvelle historique d'action",
+        "createOrEditLabel": "Créer ou éditer une Historique Action",
+        "notFound": "Aucune Historique Action trouvée"
       },
-      "created": "Un nouveau Historique Action a été créé avec l'identifiant {{ param }}",
-      "updated": "Le Historique Action avec l'identifiant {{ param }} a été mis à jour",
-      "deleted": "Le Historique Action avec l'identifiant {{ param }} a été supprimé",
+      "created": "Une nouvelle Historique Action a été créée avec l'identifiant {{ param }}",
+      "updated": "La Historique Action avec l'identifiant {{ param }} a été mise à jour",
+      "deleted": "La Historique Action avec l'identifiant {{ param }} a été supprimée",
       "delete": {
         "question": "Êtes-vous certain de vouloir supprimer le Historique Action {{ id }} ?"
       },
